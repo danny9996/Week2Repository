@@ -1,0 +1,4 @@
+function makeUpperCase(str) {
+var st = str.toUpperCase();
+return st;
+}
